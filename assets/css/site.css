@@ -1,0 +1,13 @@
+/* Root */
+
+:root {
+    --cor-primaria: #1959a0;
+    --cor-secundaria: #fdd538;
+    --cor-terciaria: #1c68bb;
+}
+
+/* Header */
+
+.header {
+    position: relative;
+}
